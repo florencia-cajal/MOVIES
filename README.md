@@ -2,6 +2,6 @@ MOVIES
 Integrantes:
 Julieta,
  Franco,
-  Luciano,
+  Luciano, 19 años, San Miguel
    Juan,
     Florencia
