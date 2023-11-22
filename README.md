@@ -1,3 +1,7 @@
 MOVIES
 Integrantes:
-Julieta, Franco, Luciano, Juan, Florencia
+Julieta,
+Franco, 
+Luciano,
+ Juan, 
+ Florencia
