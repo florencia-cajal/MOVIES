@@ -3,5 +3,5 @@ Integrantes:
 Julieta,
 Franco, 
 Luciano,
- Juan, 
+ Juan, 23, CABA
  Florencia
