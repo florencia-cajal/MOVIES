@@ -1,7 +1,7 @@
 MOVIES
 Integrantes:
 Julieta,
- Franco,
+ Franco, 23 años, Moreno.
   Luciano,
    Juan,
     Florencia
